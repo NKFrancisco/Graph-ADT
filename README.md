@@ -2,5 +2,5 @@
 - Implements a graph data structure using an adjacency list 
 - Finds all shortest paths from starting node 1 and 14 using Dijkstras algorithm. 
 
-## Example 
-![Example Output](Graph.PNG)
+## Output Example 
+![Example](Graph.PNG)
