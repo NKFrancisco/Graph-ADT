@@ -3,4 +3,4 @@
 - Finds all shortest paths from starting node 1 and 14 using Dijkstras algorithm. 
 
 ## Output Example 
-![Example](Graph.PNG)
+![Example](graph.PNG)
